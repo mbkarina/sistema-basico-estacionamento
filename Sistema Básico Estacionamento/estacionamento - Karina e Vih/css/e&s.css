@@ -1,0 +1,67 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+body {
+    width: 800px; 
+    margin-left: 450px;
+    margin-right: auto;
+    margin-top: 220px;
+    background-color: bisque;
+
+}
+
+.conteudo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+
+.legend {
+    font-size: 50px;
+}
+
+.topo {
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 400px;
+    object-position: center;
+    background: white;
+    color: black; 
+    width: 65px;
+    height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+}
+
+.topo:hover {
+    text-decoration: none;
+    background: pink;
+    color: red; 
+    width: 65px;
+    height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+}
+
+.link {
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 400px;
+    object-position: center;
+    background: white;
+    color: black; 
+    width: 85px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+}
+
+.link:hover {
+    text-decoration: none;
+    background: pink;
+    color: red; 
+    width: 65px;
+    height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+}
